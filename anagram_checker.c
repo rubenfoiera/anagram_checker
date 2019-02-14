@@ -1,4 +1,4 @@
-//Foiera 15-934-789
+
 #include<stdio.h>
 #include<string.h>
 
